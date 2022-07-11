@@ -1,6 +1,6 @@
 {
   "vendor": "vtex",
-  "name": "countdown",
+  "name": "countdown-hamiltonstore",
   "version": "0.0.1",
   "title": "Countdown",
   "description": "Countdown component",
@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "vtex.styleguide": "9.x",
-    "vtex.css-handles": "0.x"
+    "vtex.css-handles": "0.x",
+    "vtex.search-graphql": "0.x",
+    "vtex.product-context": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

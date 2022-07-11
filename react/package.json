@@ -18,7 +18,7 @@
     "@types/node": "^12.7.5",
     "@types/prop-types": "^15.7.0",
     "@types/ramda": "^0.26.5",
-    "@types/react": "^16.9.31",
+    "@types/react": "^16.14.28",
     "@vtex/test-tools": "^3.3.2",
     "@vtex/tsconfig": "^0.4.4",
     "apollo-cache-inmemory": "^1.6.5",
